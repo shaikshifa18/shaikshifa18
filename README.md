@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 -🔭 I’m currently working on Data Analysis Projects
 -🌱 I’m currently learning Dashboards Tools
